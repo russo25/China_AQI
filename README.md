@@ -1,5 +1,5 @@
 # Chinas Air Quality and Economic Data
-Where is the best location to establish a buisness?
+Where is the best location to establish a business?
 
 
 Notional analysis of establishing a business in China with considerations of Air Quality (primarily) and other factors.
