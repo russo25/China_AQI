@@ -4,7 +4,7 @@ Where is the best location to establish a business?
 
 Notional analysis of establishing a business in China with considerations of Air Quality (primarily) and other factors.
 
-This project explores available Ar Quality data from China and several other business and quality of life (QOL) considerations in establishing a business in China.  The major questions include:
+This project explores available Air Quality data from China and several other business and quality of life (QOL) considerations in establishing a business in China.  The major questions include:
 
 1. Where is the best location for air quality, available workers, and past growth data?
 2. Is there a relationship between air quality and locations inland or on the coast to best avoid air pollution?
